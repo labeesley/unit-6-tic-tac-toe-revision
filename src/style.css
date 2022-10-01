@@ -5,3 +5,8 @@ body {
 .container {
   padding: 0 2.5%;
 }
+
+.squarebtn {
+  height: 100px;
+  width: 100px
+}
